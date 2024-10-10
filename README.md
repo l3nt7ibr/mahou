@@ -8,20 +8,19 @@
 
 </div>
 
-真寻日报。
+感谢原作者和velor2012的修改支持
 
 <details>
 <summary>查看实时预览图</summary>
-<img src="https://mahou.spiritx.xyz/output.png" width="40%" />
+<img src="https://ghp.ci/https://raw.githubusercontent.com/l3nt7ibr/mahou/refs/heads/output/output.png" width="40%" />
 </details>
 
 通过 CDN 立即使用：
 
 |来源|缓存|网络|
 |:-:|:-:|:-:|
-|[Vercel API](https://mahou.spiritx.xyz/output.png)|无缓存|○|
-|[GitHub Raw](https://raw.githubusercontent.com/opq-osc/mahou/output/output.png)|无缓存|△|
-|[jsdelivr](https://cdn.jsdelivr.net/gh/opq-osc/mahou@output/output.png)|12 hours 缓存|○|
+|[GitHub 镜像](https://raw.githubusercontent.com/l3nt7ibr/mahou/refs/heads/output/output.png)|无缓存|○|
+|[GitHub Raw](https://raw.githubusercontent.com/l3nt7ibr/mahou/refs/heads/output/output.png)|无缓存|△|
 
 ### License
 
