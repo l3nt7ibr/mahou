@@ -19,7 +19,7 @@
 
 |来源|缓存|网络|
 |:-:|:-:|:-:|
-|[GitHub 镜像](https://raw.githubusercontent.com/l3nt7ibr/mahou/refs/heads/output/output.png)|无缓存|○|
+|[GitHub 镜像](https://ghp.ci/https://raw.githubusercontent.com/l3nt7ibr/mahou/refs/heads/output/output.png)|无缓存|○|
 |[GitHub Raw](https://raw.githubusercontent.com/l3nt7ibr/mahou/refs/heads/output/output.png)|无缓存|△|
 
 ### License
