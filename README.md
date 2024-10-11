@@ -9,6 +9,7 @@
 </div>
 
 感谢原作者和velor2012的修改支持
+[![Generate Image](https://github.com/l3nt7ibr/mahou/actions/workflows/generate.yml/badge.svg)](https://github.com/l3nt7ibr/mahou/actions/workflows/generate.yml)
 
 <details>
 <summary>查看实时预览图</summary>
