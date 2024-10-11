@@ -13,7 +13,7 @@
 
 <details>
 <summary>查看实时预览图</summary>
-<img src="https://ghp.ci/https://raw.githubusercontent.com/l3nt7ibr/mahou/refs/heads/output/output.png" width="40%" />
+<img src="https://ghp.ci/https://raw.githubusercontent.com/l3nt7ibr/mahou/refs/heads/output/output.png" />
 </details>
 
 通过 CDN 立即使用：
