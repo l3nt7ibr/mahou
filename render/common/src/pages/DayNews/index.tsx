@@ -290,7 +290,7 @@ function getFishCalendar(ins: Dayjs) {
     return getUntilNextLunarDay([1, 1])
   }
   const getUntilNextTombSweeping = () => {
-    return getUntilNextLunarDay([2, 5])
+    return getUntilNextLunarDay([2, 18])
   }
   const getUntilNextLabor = () => {
     return getUntilNextSolarDay([5, 1])
