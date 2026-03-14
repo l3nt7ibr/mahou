@@ -56,13 +56,17 @@ jobs:
         uses: actions/cache@v3
         with:
           path: render/common/dist/index.html
-          key: ${{ runner.os }}-html-${{ hashFiles('**/pnpm-lock.yaml') }}
+          key: ${{ runner.os }}-html-${{ hashFiles('**/pnpm-lock.yaml') }}-${{ github.sha }}
 
       - name: Prepare HTML
         if: steps.cache-html.outputs.cache-hit != 'true'
         run: pnpm build
         working-directory: ./render/common
-
+      
+      - name: Clean old output
+        run: rm -f server/output.png && rm -f output/output.png
+        working-directory: ./mahou
+      
       - name: Generate Image
         run: pnpm copy && pnpm start --generate --compress
         working-directory: ./server
