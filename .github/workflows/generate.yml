@@ -65,7 +65,6 @@ jobs:
       
       - name: Clean old output
         run: rm -f server/output.png && rm -f output/output.png
-        working-directory: ./mahou
       
       - name: Generate Image
         run: pnpm copy && pnpm start --generate --compress
