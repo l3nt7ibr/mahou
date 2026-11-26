@@ -13,7 +13,7 @@
 
 <details>
 <summary>查看实时预览图</summary>
-<img src="https://ghfast.top/https://raw.githubusercontent.com/l3nt7ibr/mahou/refs/heads/output/output.png" />
+<img src="https://mahou.334173.xyz" />
 </details>
 
 通过 CDN 立即使用：
@@ -22,7 +22,9 @@
 |:-:|:-:|:-:|
 |[GitHub 镜像](https://ghfast.top/https://raw.githubusercontent.com/l3nt7ibr/mahou/refs/heads/output/output.png)|无缓存|○|
 |[GitHub Raw](https://raw.githubusercontent.com/l3nt7ibr/mahou/refs/heads/output/output.png)|无缓存|△|
+|[第三方构建](https://mahou.334173.xyz)|有缓存|○|
 
+~~微软求求你不要夹我任务了~~
 ### License
 
 MIT
