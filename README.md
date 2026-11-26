@@ -13,7 +13,7 @@
 
 <details>
 <summary>查看实时预览图</summary>
-<img src="https://mahou.334173.xyz" />
+<img src="https://ghfast.top/https://raw.githubusercontent.com/l3nt7ibr/mahou/refs/heads/output/output.png" />
 </details>
 
 通过 CDN 立即使用：
